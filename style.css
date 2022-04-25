@@ -1,0 +1,25 @@
+.item__left{
+    background-color: #132a3d;
+
+}
+
+
+.item__left a{
+    color: white;
+}
+
+.ketqua{
+    background-color: antiquewhite;
+    font-size: 20px;
+    padding: 20px;
+    font-weight: 600;
+    color: red;
+    border-radius: 10px;
+}
+
+.content__main{
+    padding-top: 40px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    padding: 20px;
+}
